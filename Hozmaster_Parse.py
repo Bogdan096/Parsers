@@ -17,7 +17,7 @@ import openpyxl
 # CHATS_IDS = '\\\\TG-Storage01\\Аналитический отдел\\Проекты\\Python\\chats_ids.csv'
 #
 # logger = TgLogger(
-#     name='Парсинг_ИнжСеть',
+#     name='Парсинг_Хозмастер',
 #     token=os.environ.get('LOGGER_BOT_TOKEN'),
 #     chats_ids_filename=CHATS_IDS,
 # )
